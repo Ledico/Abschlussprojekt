@@ -24,6 +24,7 @@ html{
   background-color: #353b48;
 }
 
+
 .navbar{
   position: fixed;
   background-color: black;
@@ -115,7 +116,4 @@ home{
 #home .content h1{
   font-size: 80px;
   margin-bottom: 80px;
-}
-
-#home{
 }
