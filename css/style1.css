@@ -1,3 +1,4 @@
+
 /* CSS Document */
 	body{
 	 background-color: #000000;
@@ -23,4 +24,13 @@ body {background-color:#2d2d2d;}
   color:#fff;
   border-left: 3px solid #ed1f24;
   padding: 20px;
+}
+
+.container {
+  font-size: 100px;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
