@@ -15,6 +15,13 @@ html{
   background-color: #48dbfb60;
 }
 
+.logo{
+  width: 64px;
+  height: 64px;
+  background-image: url(../images/Logo.png);
+  background-size: contain;
+}
+
 ::-webkit-scrollbar{
   width: 10px;
   background-color: #f1f1f1;
