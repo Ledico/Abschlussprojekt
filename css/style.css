@@ -29,19 +29,21 @@ html{
   position: fixed;
   background-color: black;
   width: 100%;
-  padding: 20px 0;
+  padding: 10px 0;
   top: 0;
   z-index: 999;
   transition: .3s linear;
 }
 
 .inner-width{
+  width: 100%;
   max-width: 1300px;
   margin: auto;
   padding: 0 40px;
 }
 
 .navbar .inner-width{
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -68,6 +70,7 @@ html{
 }
 
 .navbar-menu a{
+  width: 100%;
   color: #fff;
   font-size: 15px;
   font-weight: 500;
@@ -81,12 +84,14 @@ html{
 
 
 home{
+	width: 100%;
 	background-color: #000000;
 	padding: 0px;
 	margin: 0px;
 }
 
 #home{
+
   height: 800px;
   width: 100%;
   padding: 0px;
@@ -94,6 +99,7 @@ home{
 }
 
 #home .inner-width{
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -102,7 +108,7 @@ home{
 }
 
 #home .content{
-  width: 200%;
+  width: 100%;
   color: #fff;
 }
 
