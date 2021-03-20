@@ -1,4 +1,9 @@
 * {
+  font-family:Dosis;
+  font-weight:700;
+}
+
+* {
   margin: 0;
   padding: 0;
   -webkit-box-sizing: border-box;
