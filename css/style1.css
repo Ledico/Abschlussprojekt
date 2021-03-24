@@ -1,0 +1,11 @@
+main {
+	background: black;
+	color: white;
+	height: inherit;	
+}
+
+h1 {
+	position: absolute;
+	left: 350px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
