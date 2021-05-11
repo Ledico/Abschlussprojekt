@@ -3,6 +3,7 @@ nav {
 	
 }
 .button {
+	float: right;
   display: inline-block;
   border-radius: 30px;
   background-color: #f4511e;
@@ -44,8 +45,10 @@ nav {
 }
 
 .active {
-	margin-right: 700px;
+	float: left;
 }
+
+
 
 .w3-btn {margin-bottom:10px;}
 
@@ -58,7 +61,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: right;
 }
 .navbar.navbar-inverse ul .active {
 }
@@ -81,6 +84,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+	
 }
 
 li a:hover {
