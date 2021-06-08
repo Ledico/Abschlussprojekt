@@ -174,7 +174,7 @@ h1,h2,h3,h4,h5,h6 {
     background-attachment: inherit;
     background-position: center;
 	width: 100%;
-	height: 100vw;
+	height: 60vw;
 }
 .section-hero:before {
     content: '';
@@ -184,7 +184,7 @@ h1,h2,h3,h4,h5,h6 {
     left: 0;
     top: 0;
     width: 100%;
-    height: 100vw;
+    height: 60vw;
     background-size: contain;
     background: linear-gradient(to right,#3987f4,#cd3178);
     opacity: .9;
@@ -194,7 +194,7 @@ h1,h2,h3,h4,h5,h6 {
 .section-hero .container,.section-hero .container h1,.section-hero .container h2,.section-hero .container h3,.section-hero .container h4 {
     color: #fff;
   width: 100%;
-  height: 100vw;
+  height: 60vw;
   background-size: cover;
 }
 .spacer {
