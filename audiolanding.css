@@ -101,7 +101,7 @@ li a:hover {
 .anim {
 	display: block;
     font-size: 150px;
-    font-weight: 400;
+    font-weight: 500;
     font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
     animation: flow 2s infinite;
     background: linear-gradient(to right, #45a3e5, #66bf39, #eb670f, #f35, #864cbf );
